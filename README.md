@@ -1,7 +1,8 @@
-# DDOS
-When using this its a federal crime im no fucking genius im a retard you will get traced by ISP and go to federal prison
+# DOS
 
-### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable 
+I made this when i was prolly ten and it mostlikey doesnt work.
+
+### A  Denial of Service (DoS) attack is an attempt to make an online service unavailable 
 
 by overwhelming it with traffic from multiple sources. They target a wide variety of important resources
 from banks to news websites, and present a major challenge to making sure people can publish and access important information
